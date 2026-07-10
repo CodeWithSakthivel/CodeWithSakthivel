@@ -1,43 +1,85 @@
-# Hey there! 👋 Welcome to my GitHub
+# Hey there! 👋 I'm Sakthivel
 
-I'm **SocioPilots** — Building open-source tools for creators and indie hackers.
+**Building SocioPilots** — Open-source social scheduler with optional managed hosting.
 
-🚀 **Currently:** Building **SocioPilots** — An open-core social media scheduler designed for self-hosting and community-driven development.
+🚀 **Currently:** Full-time indie builder | 100-day public build challenge in progress
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
-- 💪 Open-source enthusiast & builder
-- 🔓 Self-hosted everything advocate
-- 🤖 AI-powered automation believer
-- 📱 Social media tool creator
+- 💪 Full-stack developer & open-source builder
+- 🔓 Self-hosted & privacy-first advocate
+- 🤖 AI automation enthusiast
+- 📱 Creator of SocioPilots
 - 🌍 Building in public (100-day challenge)
+- 🎯 Open-core business model believer
 
 ---
 
 ## 🔨 What I'm Building
 
 ### **SocioPilots** 
-> Open-core social media scheduler | Self-hosted forever | Built in public
+> Open-core social media scheduler | Self-hosted or Managed Hosting | Built in public
 
 **Status:** 100-Day Build Challenge (In Progress)
 
-**Features:**
+**Business Model:**
+- 🔓 **Open-Source (FREE)** — Self-hosted version with full control
+  - AGPL License
+  - Run on your own server
+  - Full source code access
+  - Community-driven development
+
+- ☁️ **Managed Hosting (PAID)** — Hassle-free cloud version
+  - Hosted solution with automatic updates
+  - Priority support
+  - Backup & security managed for you
+  - Perfect for teams who don't want to self-host
+
+**Core Features:**
 - 📅 Schedule posts across multiple platforms
 - 🔄 Automation with AI tools
-- 🏠 Self-hosted & privacy-focused
-- 🔓 Open-source (AGPL)
-- 💻 REST API (not GraphQL for accessibility)
+- 🏠 Self-hosted option (complete control)
+- ☁️ Managed hosting option (convenience)
+- 🔓 Open-source code (transparency)
+- 💻 REST API (simple & accessible)
 
 **Tech Stack:**
 - Backend: NestJS + REST API
 - Frontend: Next.js
 - Database: PostgreSQL
 - Deployment: Docker + docker-compose
-- Infrastructure: Self-hosted ready
+- Infrastructure: Self-hosted ready OR cloud-hosted
 
 **Repository:** [SocioPilots](https://github.com/CodeWithSakthivel/sociopilots)
+
+---
+
+## 💡 Open-Core Philosophy
+
+This is how I believe software should work:
+
+```
+Open-Source (Self-Hosted) + Managed Hosting = Sustainable Business
+```
+
+**Why this model?**
+
+✨ **For Users:**
+- Want full control? → Self-host for free (open-source)
+- Want convenience? → Use managed hosting (paid)
+- Your choice, your data
+
+🎯 **For Sustainability:**
+- Open-source builds trust & community
+- Managed hosting funds development
+- Everyone wins
+
+🔓 **For Transparency:**
+- Code is public (no hidden complexity)
+- Self-hosters can audit & verify
+- Community can contribute & improve
 
 ---
 
@@ -54,6 +96,7 @@ I'm **SocioPilots** — Building open-source tools for creators and indie hacker
 - Full-stack development
 - Open-source architecture
 - Self-hosting solutions
+- Open-core business models
 - AI integration
 
 ---
@@ -66,29 +109,45 @@ I'm **SocioPilots** — Building open-source tools for creators and indie hacker
 
 ---
 
-## 🚀 Current Focus
+## 🚀 SocioPilots 100-Day Build Challenge
 
-📍 **SocioPilots 100-Day Build Challenge**
+**Goal:** Build a production-ready, fully-featured social scheduler in 100 days.
 
-Building a complete, production-ready social media scheduler in 100 days:
+**Timeline:**
 - Day 1: Monorepo consolidation
 - Day 2: REST API architecture decision
 - Day 3: Brand identity & marketing automation
-- Days 4-100: Features, testing, deployment
+- Days 4-100: Features, testing, deployment, launch
 
-**Following along?** Check out the [daily updates](https://github.com/CodeWithSakthivel/sociopilots/tree/master/marketing/social-posts/100day-content)
+**Why open-core?**
+- Prove the product with open-source first
+- Build community trust early
+- Managed hosting is optional revenue
+- Everyone has access to the code
+
+**Following along?** Check the [daily updates](https://github.com/CodeWithSakthivel/sociopilots/tree/master/marketing/social-posts/100day-content)
 
 ---
 
-## 💡 Philosophy
+## 💼 Options to Use SocioPilots
 
-**My approach to building:**
+### 1️⃣ Open-Source (Self-Hosted)
+```
+FREE | AGPL | Full Control | Your Server
+```
+- Clone the repo
+- Deploy to your infrastructure
+- Complete source code access
+- Community support
 
-✨ **Build in Public** — Share the journey, not just the destination  
-🎯 **Simplicity First** — Boring > Clever (for adoption)  
-🔓 **Open Source** — Code should be accessible to everyone  
-🏠 **Self-Hosted** — Your data, your server, your rules  
-⚡ **Consistency** — Ship every single day  
+### 2️⃣ Managed Hosting (Cloud)
+```
+PAID | Convenience | Security | Support
+```
+- Sign up & login
+- We handle infrastructure
+- Automatic backups & updates
+- Priority support
 
 ---
 
@@ -97,51 +156,63 @@ Building a complete, production-ready social media scheduler in 100 days:
 **Follow the 100-day journey:**
 
 - 🐦 **X/Twitter:** [@SocioPilots](https://x.com/SocioPilots)
-- 💼 **LinkedIn:** [SocioPilots](https://linkedin.com/company/sociopilots)
+- 💼 **LinkedIn:** [Sakthivel](https://linkedin.com/in/sakthivel)
 - 📧 **Email:** sakthiveltechit@gmail.com
 - 🔗 **Website:** [Coming soon]
 
-**Interested in open-source, self-hosting, or automation?** Let's collaborate! 🚀
-
----
-
-## 📝 Latest Blog Posts
-
-- **Day 3/100:** Brand Identity & Marketing Automation
-- **Day 2/100:** Monorepo + REST API Decisions
-- **Day 1/100:** The 100-Day Build Challenge Begins
-
----
-
-## 🎓 Open Source Contributions
-
-Passionate about contributing to and maintaining open-source projects that:
-- Enable self-hosting
-- Prioritize accessibility
-- Value community feedback
-- Ship regularly
-
-**Interested in contributing to SocioPilots?** Check the [CONTRIBUTING.md](https://github.com/CodeWithSakthivel/sociopilots/blob/main/CONTRIBUTING.md)
+**Want to:**
+- 🔍 Explore the code? → Check [GitHub](https://github.com/CodeWithSakthivel/sociopilots)
+- 🎯 Self-host it? → See [Self-Hosting Guide](https://github.com/CodeWithSakthivel/sociopilots)
+- 💬 Contribute? → Check [CONTRIBUTING.md](https://github.com/CodeWithSakthivel/sociopilots/blob/main/CONTRIBUTING.md)
+- 📞 Use managed hosting? → [Coming soon at launch]
 
 ---
 
 ## 📈 Goals for 2026
 
 - ✅ Launch SocioPilots (100-day challenge)
-- 🎯 Reach 1K GitHub stars
-- 🤝 Build active community
+- 🎯 Reach 1K+ GitHub stars
+- 🤝 Build active open-source community
 - 📚 Create comprehensive documentation
-- 🔒 Achieve production-ready self-hosting
+- 🔒 Make self-hosting super simple
+- 💰 Launch managed hosting option
+- 🌍 Enable creators worldwide
 
 ---
 
-## ⚡ Fun Facts
+## 💪 Core Principles
 
-- 🎨 Purple gradient theme enthusiast (#5412cd → #9a59d4)
-- 🤖 Love automating repetitive tasks
-- 📱 Social media scheduler user (testing our own product)
-- 🎯 100-day challenges believer
-- 🚀 Ship-it-quick mentality
+**Simplicity over Complexity**
+> Boring > Clever. Code should be accessible.
+
+**Open-Source First**
+> Build trust through transparency. Code is public.
+
+**Self-Hosted Forever**
+> Your data, your server, your rules.
+
+**Consistent Shipping**
+> 100 days of daily progress, not perfect code.
+
+**Community-Driven**
+> Your feedback shapes the product.
+
+---
+
+## 🎓 Open-Source Contributions
+
+Passionate about:
+- Creating sustainable open-source projects
+- Building products that respect user privacy
+- Enabling self-hosting solutions
+- Supporting indie creators & hackers
+- Transparent business models
+
+**Interested in SocioPilots?**
+- 🌟 Star the repo if you like the vision
+- 🍴 Fork it & contribute
+- 💬 Provide feedback & ideas
+- 📢 Share it with others
 
 ---
 
@@ -150,4 +221,12 @@ Passionate about contributing to and maintaining open-source projects that:
 
 ---
 
-### Thanks for stopping by! Star ⭐ SocioPilots if you believe in open-source social tools.
+### Build With Me 🚀
+
+SocioPilots is being built **in public**. Follow the daily updates, contribute ideas, or just watch the journey unfold.
+
+**Open-source, self-hosted, and sustainable.**
+
+---
+
+*Sakthivel | SocioPilots Creator | Open-Source Builder*
